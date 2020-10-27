@@ -4,7 +4,7 @@ attrs==18.2.0
 black==18.6b4
 cffi==1.11.5
 click==6.7
-cryptography==2.3.1
+cryptography==3.2
 Django==2.1.1
 django-rest-knox==3.1.5
 djangorestframework==3.8.2
