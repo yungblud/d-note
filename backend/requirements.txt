@@ -7,7 +7,7 @@ click==6.7
 cryptography==2.3.1
 Django==2.1.1
 django-rest-knox==3.1.5
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 idna==2.7
 pycparser==2.19
 pyOpenSSL==18.0.0
